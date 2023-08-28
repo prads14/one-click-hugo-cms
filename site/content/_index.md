@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Data is a new Science."
+subtitle: Surrounded by data but starved for insights
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
