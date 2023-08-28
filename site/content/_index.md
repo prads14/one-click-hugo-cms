@@ -1,12 +1,12 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Data is a new Science."
+subtitle: Surrounded by data but starved for insights
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: PRADNYA JOSHI, Data Enthusiast
+    text: "While started my Career as UX designer, I extended my horizon by deep diving into Front end Development by mastering Javascript. I worked in MNCs to write clean readable code and then handled multiple teams and projects. However recently I thought it monotonous and decided to move into new world, the DATA WORLD."
 intro:
-    heading: "What we offer"
+    heading: "MY WORK"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
